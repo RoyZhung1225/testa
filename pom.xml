@@ -14,4 +14,22 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.fazecast</groupId>
+            <artifactId>jSerialComm</artifactId>
+            <version>2.9.3</version>
+        </dependency>
+        <dependency>
+            <groupId>com.chenyo.tool</groupId>
+            <artifactId>JavaToolkit</artifactId>
+            <version>1.1.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.chenyo.tool</groupId>
+            <artifactId>JavaSerialPortToolkit</artifactId>
+            <version>1.1.0</version>
+        </dependency>
+    </dependencies>
+
 </project>
